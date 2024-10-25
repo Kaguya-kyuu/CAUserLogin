@@ -39,3 +39,4 @@ public interface LoginUserDataAccessInterface {
      */
     String getCurrentUser();
 }
+
